@@ -1,8 +1,4 @@
 # Sudoku.com Solver
-Demo:
-![Solver](https://github.com/santifiorino/sudoku.com-solver/assets/94584235/c4301548-578c-47cf-b46a-dfaa9382fab8)
-## About
-This repository contains the code for a Sudoku.com Solver, which was created for a <a href="https://youtu.be/-bjTb0o6EAQ" target="_blank">YouTube video</a> on backtracking algorithms. In the video, I use the game of Sudoku since its perfect to solve using backtracking, it's simple, and everyone knows it. This project includes:
 ### Backtracking Algorithm and Pruning:
 The core of the solver is the backtracking algorithm. I implemented a classic backtracking approach to solve the Sudoku. The pruning involves checking the validity of the Sudoku at each step, ensuring the efficiency of the solver. Nothing too fancy.
 ### Extra Optimizations:
